@@ -1,0 +1,13 @@
+{
+	"public": {
+		"ga": {
+			"account": "UA-XXXXXXXX-X"
+		}
+	},
+	"private":{
+		"stripe":{
+			"apiPrivate":"1 - hello",
+			"nextEpisode": "12"
+		}
+	}
+}
